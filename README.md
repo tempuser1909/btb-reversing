@@ -8,11 +8,11 @@ Disclaimer:
 	- would appreciate the help to improve the content or to add content that I never knew
 
 ### Contents
-1 ELF structure
+1. ELF structure
 > 1.1 Basic structure
-2 Memory structure
+2. Memory structure
 > 2.1 Stack
 > 2.2 Heap
-3 
-4 
-5 Pwntool/Peda/Radare/IDA 
+3.
+4.
+5. Pwntool/Peda/Radare/IDA 
