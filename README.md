@@ -11,8 +11,18 @@ Disclaimer:
 1. ELF structure
 	+ 1.1 Basic structure
 2. Memory structure
-	+ 2.1 Stack
+	+ 2.1 Stack	
 	+ 2.2 Heap
-3.
-4.
-5. Pwntool/Peda/Radare/IDA 
+3. Security Mechanisms
+	+ 3.1 DEP/NX
+	+ 3.2 ASLR
+	+ 3.3 Canary/Stack cookie
+4. Assembly Code
+	+ 4.1 Syntax
+	+ 4.2 Instruction Sets
+	+ 4.3 Registers and Flags
+	+ 4.4 Calling conventions
+5. Brain Exercises
+6. Buffer Overflow
+	+ 6.1 SLmail
+7. Pwntool/Peda/pwndbg/Radare/IDA 
